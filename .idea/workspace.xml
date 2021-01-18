@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c82dd5d5-5987-41f6-a8c8-25bbae3e171f" name="Default Changelist" comment="">
+    <list default="true" id="c82dd5d5-5987-41f6-a8c8-25bbae3e171f" name="Default Changelist" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/05 spring_data_jpa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring_data_jpa_customers.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
   <component name="RunManager">
     <configuration name="SpringDataJpaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.spring_data_jpa.SpringDataJpaApplication" />
-      <module name="05 spring_data_jpa" />
+      <module name="spring_data_jpa_customers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nl.gettoworktogether.spring_data_jpa.*" />
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610917778827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1610976132582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610976132582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -126,6 +134,7 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="Name added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Name added" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>

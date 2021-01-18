@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/05 spring_data_jpa.iml" filepath="$PROJECT_DIR$/.idea/05 spring_data_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_data_jpa_customers.iml" filepath="$PROJECT_DIR$/.idea/spring_data_jpa_customers.iml" />
     </modules>
   </component>
 </project>
