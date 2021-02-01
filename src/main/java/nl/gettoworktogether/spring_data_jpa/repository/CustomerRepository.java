@@ -12,4 +12,7 @@ public interface CustomerRepository extends JpaRepository<Customer, Long> {
 
     public Collection<Customer> findAllByLastName(String name);
 
+//    @Query("SELECT c FROM customers c WHERE LOWER(c.first_name) = LOWER(:name)")
+//    Customer retrieveByFirstName(@Param("name") String name);
+
 }
